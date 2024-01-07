@@ -1,4 +1,4 @@
-# random_number_guess
+# Tic-Tac-Toe game
 
 A new Flutter project.
 
